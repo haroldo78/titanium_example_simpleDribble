@@ -1,6 +1,5 @@
 <Alloy>
-	<Collection src="thumbs"></Collection>
-		<SplitWindow platform="ios" formFactor="tablet">
+	<SplitWindow platform="ios" formFactor="tablet">
 	<Window id="nav">
 		<Label>This is the nav</Label>
 		<ScrollView id="scroll">
@@ -13,8 +12,8 @@
 				<NavigationWindow>
 	        	<Window height='110' width='250' id="popoverTitle">
 					<ImageView id="profilePic" width="80" height="80" left="0"></ImageView>
-					<Label id="twitterName" width="140" top="30" left="120" color="black" height="30">love</Label>
-					<Label id="location"  color='black' left="120" width="140" top="60" height="30">loyality</Label>
+					<Label id="twitterName" width="140" top="30" left="120" color="black" height="30"></Label>
+					<Label id="location"  color='black' left="120" width="140" top="60" height="30"></Label>
 	        	</Window>
 	            </NavigationWindow>
 	        </ContentView>
