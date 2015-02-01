@@ -1,0 +1,14 @@
+"#nav" : {
+	backgroundColor : "#96B9F2"
+}
+"Label" : {
+	top : 50,
+	left : 50
+}
+
+"#scroll" : {
+	top : 100,
+	contentHeight : "auto",
+	showVerticalScrollIndicator : true,
+	backgroundColor : "#AEF5AE"
+}

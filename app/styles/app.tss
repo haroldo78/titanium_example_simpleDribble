@@ -1,0 +1,12 @@
+"Window" : {
+	backgroundColor : "#fff"
+}
+
+"SplitWindow" : {
+    showMasterInPortrait:true	
+}
+
+"#mainImage" : {
+	width : 400,
+	height : 300
+}

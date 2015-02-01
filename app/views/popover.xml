@@ -1,0 +1,15 @@
+<Alloy>
+    <Popover id="popover" height='110' width='250' arrowDirection='Ti.UI.iPad.POPOVER_ARROW_DIRECTION_DOWN'>
+        <ContentView height='110' width='250' >
+			<NavigationWindow>
+        	<Window height='110' width='250'>
+				<ImageView id="profilePic" width="80" height="80" left="0"></ImageView>
+				<Label id="twitterName" width="140" left="120" color="black" height="30">love</Label>
+				<Label id="location"  color='black' left="120" width="140" top="60" height="30">loyality</Label>
+        	</Window>
+            </NavigationWindow>
+        </ContentView>
+    </Popover>
+</Alloy>
+
+
